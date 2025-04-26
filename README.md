@@ -68,10 +68,8 @@
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anishumar/anishumar/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishumar/anishumar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishumar/anishumar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anishumar/anishumar/output/github-snake.svg" />
+</picture>
