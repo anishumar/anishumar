@@ -17,7 +17,7 @@ Full-stack and mobile developer. I build products end to end, from REST APIs and
 |---|---|---|
 | [zoop](https://github.com/anishumar/zoop) | Live commerce app with video streaming, chat, and reactions | TypeScript, Express, Prisma, PostgreSQL, Socket.IO, LiveKit, React Native |
 | [chats-web](https://github.com/anishumar/chats-web) + [chats-backend](https://github.com/anishumar/chats-backend) | Real-time chat app | React, Node.js, Express, MongoDB, Socket.IO |
-| [Creatist](https://apps.apple.com/in/app/creatist/id6749386120) | Collaboration platform for creators, on the App Store ([website code](https://github.com/anishumar/creatist-web)) | Next.js, TypeScript, SwiftUI, FastAPI |
+| [Creatist](https://apps.apple.com/in/app/creatist/id6749386120) | Collaboration platform for creators, on the App Store ([iOS app](https://github.com/anishumar/CreatistSwiftUI), [website](https://github.com/anishumar/creatist-web)) | Next.js, TypeScript, SwiftUI, FastAPI |
 | [expensify](https://github.com/anishumar/expensify) | On-device Android expense tracker for UPI and card payments | Kotlin |
 | [notchy](https://github.com/anishumar/notchy) | Dynamic Island-style live pill for Android | Kotlin |
 | [vaani-ssc](https://github.com/anishumar/vaani-ssc) | Health education app for teens and young adults | Swift, SwiftUI |
